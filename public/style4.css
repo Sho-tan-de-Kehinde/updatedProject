@@ -1,0 +1,14 @@
+body{
+    background-color: white;
+}
+.taskResult{
+    width: 500px;
+    height: 50px;
+    margin: auto;
+    padding: 20px;
+    outline: solid 1px black; 
+}
+h2{
+    margin: 30px;
+    padding: 30px;
+}
